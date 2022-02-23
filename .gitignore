@@ -1,0 +1,11 @@
+*.toc
+*.gz
+*.pdf
+*.aux
+*.log
+*.out
+*.fdb_latexmk
+*.fls
+*.xdv
+.prettierrc
+__latexindent_temp.tex
