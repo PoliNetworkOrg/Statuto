@@ -9,3 +9,4 @@
 *.xdv
 .prettierrc
 __latexindent_temp.tex
+!full.pdf
