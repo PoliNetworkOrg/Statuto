@@ -15,10 +15,7 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.ref }}
-      - name: Git pull
-        run: git pull
+
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
