@@ -1,5 +1,9 @@
 # Statuto
-## PDF
+## PDF legalmente in vigore
+
+https://github.com/PoliNetworkOrg/Statuto/releases/tag/statuto_v2.2.pdf
+
+## PDF aggiornato (non necessariamente quello legalmente in vigore)
 
 Il documento auto-generato in LaTeX e aggiornato si trova qui
 
